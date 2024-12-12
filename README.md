@@ -3,7 +3,7 @@
 <h3>Hi 👋, I'm Peter Chan</h3>
 <h4>A motivated Software Developer</h4>
 
-<h4>Final year at Auckland University of Technology. Studying a Bachelor of Computer and Information Sciences, majoring in Software Development and minoring in Networks and Cybersecurity.</h4>
+<h4>Recent graduate from Auckland University of Technology. Studied a Bachelor of Computer and Information Sciences, majored in Software Development and minored in Networks and Cybersecurity.</h4>
 
 
 <h4 align="left">Connect with me:</h4>
